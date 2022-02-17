@@ -1,0 +1,36 @@
+📢 We are organizing Global Power Platform Bootcamp - PH & Delhi Edition
+📅 When: 18th & 19th Feb, 2022
+🎟️ Register as Attendee: https://lnkd.in/dE5Fqz8V
+🎟️ Register : https://lnkd.in/dtU4StZS
+Day 1: February 18, 2022 Schedule
+************************************
+1.KeyNote by Doher Drizzle Pablo
+🕐 04:00 PM IST | 06:30 PM SGT
+2. Discover the value of Power Platform beyond Office 365 by Nica Siy
+3. App in a day by Kayte Anne Arabit
+🕐 05:00 PM IST | 07:30 PM SGT
+4. Build an offline Power Apps (Canvas) with SharePoint data source by Vivek Patel
+🕐 06:00 PM IST | 08:30 PM SGT
+5. Power Virtual Agents in a Day by Roi Alfred Sardalla
+🕐 07:00 PM IST | 09:30 PM SGT
+*************************************
+Day 2: February 19,2022 Schedule
+1. Best Practices using Power BI Datasets in Paginated Reports by Parvinder Chana
+🕐 09:00 AM IST | 11:30 AM SGT
+2. Power BI CI/CD Using Azure Devops by Sagar Lad
+🕐 10:00 AM IST | 12:30 PM SGT
+3. Integrate Teams, Virtual Agents, Forms, Power Automate and Automate Desktop by Mohammed Basha
+🕐 11:00 AM IST | 01:30 PM SGT
+4. Let's Learn DAX by Hésham .N
+🕐 12:00 PM IST | 02:30 PM SGT
+5. AI Builder in Power Apps by Ajo Suresh
+🕐 01:00 PM IST | 03:30 PM SGT
+6. PowerApps Forms - Advanced Record navigation Technique in forms by Tarun Reddy
+🕐 02:00 PM IST | 04:30 PM SGT
+7. An Introduction to Machine Learning in Power BI by Leon Gordon, Microsoft MVP
+🕐 03:00 PM IST | 05:30 PM SGT
+8. Self AI , NLP , R and Python , SQL Server 2019 ML Service & Polybase with Power BI Desktop by Yitzosavid Yitzhak David
+🕐 04:00 PM IST | 06:30 PM SGT
+
+Organizers: Dhruvin, Doher Drizzle, Prince Kher, Abhinav, Kumar Ranjan, Power BI PH Community, Delhi Power BI User Group
+#gppb2022 #GPPB #PowerPlatform #PowerAddicts #Microsoft
